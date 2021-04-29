@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    background-image: url("images/why.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+}
+
+.nav-wrapper {
+    justify-content: space-between;
+    padding: 38px;
+    width: 100px;
+    background-color: transparent;
+    background:transparent(17, 118, 180);
+    margin-bottom: 10px;
+}
+
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+}
+
+.nav-link-wrapper a {
+    text-decoration: none;
+    color:white;
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid black;
+}
+
+.nav-link-wrapper a:hover {
+    color: black;
+}
+
+
+
