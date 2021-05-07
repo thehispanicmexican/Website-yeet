@@ -15,6 +15,14 @@ body {
     background-size: cover;
 }
 
+.more-container{
+    height: 100%;
+    background-image: url("images/water.jpeg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+}
+
 .nav-wrapper {
     justify-content: space-between;
     padding: 38px;
